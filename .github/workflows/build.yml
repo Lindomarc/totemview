@@ -46,8 +46,10 @@ jobs:
       - name: Package iOS app
         run: |
           if [ -d "ios/build/DerivedData/Build/Products/Release-iphoneos/TotemView.app" ]; then
-            cd ios/build/DerivedData/Build/Products/Release-iphoneos
-            zip -r ../../../../TotemView.app.zip TotemView.app
+            mkdir -p ios/build/Payload
+            cp -R ios/build/DerivedData/Build/Products/Release-iphoneos/TotemView.app ios/build/Payload/
+            cd ios/build
+            zip -r TotemView.ipa Payload
           else
             echo "Built app bundle not found"
             exit 1
@@ -56,4 +58,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: ios-build
-          path: ios/build/TotemView.app.zip
+          path: ios/build/TotemView.ipa

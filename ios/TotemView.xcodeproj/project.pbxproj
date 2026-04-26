@@ -146,7 +146,6 @@
 			buildActionMask = 2147483647;
 			runOnlyForDeploymentPostprocessing = 0;
 			files = (
-				ED3E0F1B2E4A8C1900A4C2E3,
 				BE3E0F1B2E4A8C1900A4C2E3,
 			);
 		};

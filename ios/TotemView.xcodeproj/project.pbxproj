@@ -1,0 +1,228 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {};
+	objectVersion = 55;
+	objects = {
+
+		1D3A0F0B1E4A8C1900A4C2E3 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1420;
+			};
+			buildConfigurationList = 3E3E0F1B2E4A8C1900A4C2E3 /* Build configuration list for PBXProject */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 4D3E0F1B2E4A8C1900A4C2E3;
+			productRefGroup = 6E3E0F1B2E4A8C1900A4C2E3;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1E3E0F1B2E4A8C1900A4C2E3,
+			);
+		};
+
+		4D3E0F1B2E4A8C1900A4C2E3 /* Project object */ = {
+			isa = PBXGroup;
+			children = (
+				6D3E0F1B2E4A8C1900A4C2E3,
+				7D3E0F1B2E4A8C1900A4C2E3,
+				8D3E0F1B2E4A8C1900A4C2E3,
+				9D3E0F1B2E4A8C1900A4C2E3,
+				AD3E0F1B2E4A8C1900A4C2E3,
+				AE3E0F1B2E4A8C1900A4C2E3,
+				6E3E0F1B2E4A8C1900A4C2E3,
+			);
+			name = "TotemView";
+			sourceTree = "<group>";
+		};
+
+		6D3E0F1B2E4A8C1900A4C2E3 /* AppBrowserApp.swift */ = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			name = AppBrowserApp.swift;
+			path = AppBrowserApp.swift;
+			sourceTree = "<group>";
+		};
+
+		7D3E0F1B2E4A8C1900A4C2E3 /* ContentView.swift */ = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			name = ContentView.swift;
+			path = ContentView.swift;
+			sourceTree = "<group>";
+		};
+
+		8D3E0F1B2E4A8C1900A4C2E3 /* WebView.swift */ = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			name = WebView.swift;
+			path = WebView.swift;
+			sourceTree = "<group>";
+		};
+
+		9D3E0F1B2E4A8C1900A4C2E3 /* Info.plist */ = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.xml;
+			name = Info.plist;
+			path = Info.plist;
+			sourceTree = "<group>";
+		};
+
+		AD3E0F1B2E4A8C1900A4C2E3 /* LaunchScreen.storyboard */ = {
+			isa = PBXFileReference;
+			lastKnownFileType = file.storyboard;
+			name = LaunchScreen.storyboard;
+			path = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+
+		AE3E0F1B2E4A8C1900A4C2E3 /* Assets.xcassets */ = {
+			isa = PBXFileReference;
+			lastKnownFileType = folder.assetcatalog;
+			name = Assets.xcassets;
+			path = Assets.xcassets;
+			sourceTree = "<group>";
+		};
+
+		6E3E0F1B2E4A8C1900A4C2E3 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				7E3E0F1B2E4A8C1900A4C2E3,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+
+		7E3E0F1B2E4A8C1900A4C2E3 /* TotemView.app */ = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.application;
+			name = TotemView.app;
+			path = TotemView.app;
+			sourceTree = "BUILT_PRODUCTS_DIR";
+		};
+
+		BD3E0F1B2E4A8C1900A4C2E3 /* AppBrowserApp.swift in Sources */ = {
+			isa = PBXBuildFile;
+			fileRef = 6D3E0F1B2E4A8C1900A4C2E3;
+		};
+
+		CD3E0F1B2E4A8C1900A4C2E3 /* ContentView.swift in Sources */ = {
+			isa = PBXBuildFile;
+			fileRef = 7D3E0F1B2E4A8C1900A4C2E3;
+		};
+
+		DD3E0F1B2E4A8C1900A4C2E3 /* WebView.swift in Sources */ = {
+			isa = PBXBuildFile;
+			fileRef = 8D3E0F1B2E4A8C1900A4C2E3;
+		};
+
+		ED3E0F1B2E4A8C1900A4C2E3 /* LaunchScreen.storyboard in Resources */ = {
+			isa = PBXBuildFile;
+			fileRef = AD3E0F1B2E4A8C1900A4C2E3;
+		};
+		BE3E0F1B2E4A8C1900A4C2E3 /* Assets.xcassets in Resources */ = {
+			isa = PBXBuildFile;
+			fileRef = AE3E0F1B2E4A8C1900A4C2E3;
+		};
+
+		FD3E0F1B2E4A8C1900A4C2E3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			runOnlyForDeploymentPostprocessing = 0;
+			files = (
+				BD3E0F1B2E4A8C1900A4C2E3,
+				CD3E0F1B2E4A8C1900A4C2E3,
+				DD3E0F1B2E4A8C1900A4C2E3,
+			);
+		};
+
+		0E3E0F1B2E4A8C1900A4C2E3 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			runOnlyForDeploymentPostprocessing = 0;
+			files = (
+				ED3E0F1B2E4A8C1900A4C2E3,
+				BE3E0F1B2E4A8C1900A4C2E3,
+			);
+		};
+
+		1E3E0F1B2E4A8C1900A4C2E3 /* TotemView */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2E3E0F1B2E4A8C1900A4C2E3;
+			buildPhases = (
+				FD3E0F1B2E4A8C1900A4C2E3,
+				0E3E0F1B2E4A8C1900A4C2E3,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TotemView;
+			productName = TotemView;
+			productReference = 7E3E0F1B2E4A8C1900A4C2E3;
+			productType = "com.apple.product-type.application";
+		};
+
+		2E3E0F1B2E4A8C1900A4C2E3 /* Build configuration list for PBXNativeTarget TotemView */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4E3E0F1B2E4A8C1900A4C2E3,
+				5E3E0F1B2E4A8C1900A4C2E3,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+
+		3E3E0F1B2E4A8C1900A4C2E3 /* Build configuration list for PBXProject */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4E3E0F1B2E4A8C1900A4C2E3,
+				5E3E0F1B2E4A8C1900A4C2E3,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+
+		4E3E0F1B2E4A8C1900A4C2E3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGNING_ALLOWED = NO;
+				CODE_SIGNING_REQUIRED = NO;
+				CODE_SIGN_IDENTITY = "";
+				DEVELOPMENT_TEAM = "";
+				INFOPLIST_FILE = Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.totem.view;
+				PRODUCT_NAME = "TotemView";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1";
+			};
+			name = Debug;
+		};
+
+		5E3E0F1B2E4A8C1900A4C2E3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGNING_ALLOWED = NO;
+				CODE_SIGNING_REQUIRED = NO;
+				CODE_SIGN_IDENTITY = "";
+				DEVELOPMENT_TEAM = "";
+				INFOPLIST_FILE = Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.totem.view;
+				PRODUCT_NAME = "TotemView";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1";
+			};
+			name = Release;
+		};
+	};
+	rootObject = 1D3A0F0B1E4A8C1900A4C2E3;
+}

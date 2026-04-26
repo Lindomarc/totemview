@@ -26,17 +26,24 @@ jobs:
         run: ./gradlew assembleDebug --no-daemon
 
   ios:
-    name: Prepare iOS build
+    name: Build iOS
     runs-on: macos-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Check for Xcode project
+      - name: Install Ruby dependencies
+        run: sudo gem install cocoapods --no-document || true
+      - name: Build iOS app
         run: |
-          if [ ! -d "ios" ]; then
-            echo "No iOS folder found.";
-            exit 0;
+          if [ ! -d "ios/TotemView.xcodeproj" ]; then
+            echo "No Xcode project found at ios/TotemView.xcodeproj";
+            exit 1;
           fi
-          echo "iOS folder exists. Add an Xcode project to build it."
-      - name: Show iOS project file suggestion
-        run: |
-          echo "If you add an Xcode project, update this workflow to build it with xcodebuild."
+          xcodebuild -project ios/TotemView.xcodeproj -scheme TotemView -sdk iphoneos -configuration Release \
+            -derivedDataPath ios/build/DerivedData \
+            CODE_SIGNING_ALLOWED=NO CODE_SIGN_IDENTITY="" CODE_SIGNING_REQUIRED=NO DEVELOPMENT_TEAM="" \
+            clean build | tee ios/build/xcodebuild.log
+      - name: Upload iOS build artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: ios-build
+          path: ios/build/DerivedData/Build/Products/Release-iphoneos/

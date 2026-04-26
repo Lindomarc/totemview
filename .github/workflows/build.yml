@@ -43,8 +43,17 @@ jobs:
             -derivedDataPath ios/build/DerivedData \
             CODE_SIGNING_ALLOWED=NO CODE_SIGN_IDENTITY="" CODE_SIGNING_REQUIRED=NO DEVELOPMENT_TEAM="" \
             clean build | tee ios/build/xcodebuild.log
+      - name: Package iOS app
+        run: |
+          if [ -d "ios/build/DerivedData/Build/Products/Release-iphoneos/TotemView.app" ]; then
+            cd ios/build/DerivedData/Build/Products/Release-iphoneos
+            zip -r ../../../../TotemView.app.zip TotemView.app
+          else
+            echo "Built app bundle not found"
+            exit 1
+          fi
       - name: Upload iOS build artifacts
         uses: actions/upload-artifact@v4
         with:
           name: ios-build
-          path: ios/build/DerivedData/Build/Products/Release-iphoneos/
+          path: ios/build/TotemView.app.zip

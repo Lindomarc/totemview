@@ -1,0 +1,294 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/lindomar/Dev/AppBrowser/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/lindomar/Dev/AppBrowser/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/lindomar/Dev/AppBrowser/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/lindomar/Dev/AppBrowser/app/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [com.google.android.material:material:1.11.0] /home/lindomar/.gradle/caches/9.4.1/transforms/a97d0dfaaf1c02986ea445de3dc2f908/transformed/material-1.11.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /home/lindomar/.gradle/caches/9.4.1/transforms/1a5c1765887b14c7f907e25cef4cbc5a/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/lindomar/.gradle/caches/9.4.1/transforms/c74d2f65c47105d6db3c9f600156a0d3/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] /home/lindomar/.gradle/caches/9.4.1/transforms/6d2d3124f102f8425cf98dbf5a22143e/transformed/appcompat-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/lindomar/.gradle/caches/9.4.1/transforms/3f61ea1ce01c49fc2ebfc4f2527b2b2f/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.4] /home/lindomar/.gradle/caches/9.4.1/transforms/cec7b0ef309d1a0b70771e729d63b344/transformed/fragment-1.5.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] /home/lindomar/.gradle/caches/9.4.1/transforms/1e328d56919eadaf29fe73251975fc5d/transformed/activity-1.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/lindomar/.gradle/caches/9.4.1/transforms/4b082772de4b2a0f5123a0e7c8777430/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/lindomar/.gradle/caches/9.4.1/transforms/3652e4a967f0c63960b575b0ea2dcd02/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/lindomar/.gradle/caches/9.4.1/transforms/d22d5449f4b9be39af6a7a4176ce5386/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/lindomar/.gradle/caches/9.4.1/transforms/a25e33721441c33cd6649215983dd7df/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/lindomar/.gradle/caches/9.4.1/transforms/970c9ba3c48af425c2e98408fdf991bd/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/lindomar/.gradle/caches/9.4.1/transforms/b5f335b327eac0e64702e826ff3ad225/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/lindomar/.gradle/caches/9.4.1/transforms/e4f40a7574afdcc778b3a32b5cc059f6/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/lindomar/.gradle/caches/9.4.1/transforms/c6b799f48825d0ce8aee9a2ed07ae3a7/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/lindomar/.gradle/caches/9.4.1/transforms/b22a876d8a2006c1780126c8a663d411/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/lindomar/.gradle/caches/9.4.1/transforms/b60666cf4c87377882536ca68f37cb1c/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/lindomar/.gradle/caches/9.4.1/transforms/486c839f86d1d4721f341ed78d77b75c/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/lindomar/.gradle/caches/9.4.1/transforms/e1aa448e1cfc6695ff0f4bcc75541204/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.0] /home/lindomar/.gradle/caches/9.4.1/transforms/b5adc99706f60fa8afbf83a718a02651/transformed/core-ktx-1.13.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/lindomar/.gradle/caches/9.4.1/transforms/e3ab0525f597057046d206b0a9b3a8a8/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/lindomar/.gradle/caches/9.4.1/transforms/17c48780297cc4d770e7eac8362a90b2/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /home/lindomar/.gradle/caches/9.4.1/transforms/0340cd10d98f7e2225ab0e56e4d2948c/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/lindomar/.gradle/caches/9.4.1/transforms/04572e89e62a35fbbb18d66c32bab73a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/lindomar/.gradle/caches/9.4.1/transforms/9fbbc6426ace84377c1a37a461cbda0f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/lindomar/.gradle/caches/9.4.1/transforms/5415e8ca38a62bb44e57bd1e73708a7f/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/lindomar/.gradle/caches/9.4.1/transforms/f701a7fe3f7b8426cebe9f73d9544135/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /home/lindomar/.gradle/caches/9.4.1/transforms/61cf0ff1b6247bf2932ccd3d1cfe21f4/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.13.0] /home/lindomar/.gradle/caches/9.4.1/transforms/2c7edd3b3e54a1607a704aaac21f8107/transformed/core-1.13.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/lindomar/.gradle/caches/9.4.1/transforms/199c9bcf0128123bce8f30d796ae90e9/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/lindomar/.gradle/caches/9.4.1/transforms/94aa90fcb7a0d5e77d1579496cc298ac/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lindomar/.gradle/caches/9.4.1/transforms/e3b81165219679f19c8cc06b3348177e/transformed/profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/lindomar/.gradle/caches/9.4.1/transforms/88eaeb6b0e55ce4da5fc59dd247cf5ae/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/lindomar/.gradle/caches/9.4.1/transforms/272081552fd583ec0eb71657e62abf5a/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/lindomar/.gradle/caches/9.4.1/transforms/f7ccb20278722bfcb8b79130003d340c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/lindomar/.gradle/caches/9.4.1/transforms/419c466506caed8de27a2262f9884743/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/lindomar/.gradle/caches/9.4.1/transforms/09d308ba2b8f3a4b9f4284ebdfcb623b/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/lindomar/.gradle/caches/9.4.1/transforms/da02a4e8664f8962fd927d15a953f1b5/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/lindomar/.gradle/caches/9.4.1/transforms/81f1e9f2d4fdc6626b020cc49f47f3a8/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/lindomar/.gradle/caches/9.4.1/transforms/60c773da6457d06d6221e81548a4216c/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/lindomar/.gradle/caches/9.4.1/transforms/82241848875b092292be24246d867fc4/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /home/lindomar/Dev/AppBrowser/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/lindomar/Dev/AppBrowser/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/lindomar/Dev/AppBrowser/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/lindomar/Dev/AppBrowser/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/lindomar/Dev/AppBrowser/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/lindomar/Dev/AppBrowser/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/lindomar/Dev/AppBrowser/app/src/main/AndroidManifest.xml:6:5-20:19
+INJECTED from /home/lindomar/Dev/AppBrowser/app/src/main/AndroidManifest.xml:6:5-20:19
+MERGED from [com.google.android.material:material:1.11.0] /home/lindomar/.gradle/caches/9.4.1/transforms/a97d0dfaaf1c02986ea445de3dc2f908/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.11.0] /home/lindomar/.gradle/caches/9.4.1/transforms/a97d0dfaaf1c02986ea445de3dc2f908/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/lindomar/.gradle/caches/9.4.1/transforms/c74d2f65c47105d6db3c9f600156a0d3/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/lindomar/.gradle/caches/9.4.1/transforms/c74d2f65c47105d6db3c9f600156a0d3/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/lindomar/.gradle/caches/9.4.1/transforms/d22d5449f4b9be39af6a7a4176ce5386/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/lindomar/.gradle/caches/9.4.1/transforms/d22d5449f4b9be39af6a7a4176ce5386/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/lindomar/.gradle/caches/9.4.1/transforms/b22a876d8a2006c1780126c8a663d411/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/lindomar/.gradle/caches/9.4.1/transforms/b22a876d8a2006c1780126c8a663d411/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.0] /home/lindomar/.gradle/caches/9.4.1/transforms/2c7edd3b3e54a1607a704aaac21f8107/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.0] /home/lindomar/.gradle/caches/9.4.1/transforms/2c7edd3b3e54a1607a704aaac21f8107/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lindomar/.gradle/caches/9.4.1/transforms/e3b81165219679f19c8cc06b3348177e/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lindomar/.gradle/caches/9.4.1/transforms/e3b81165219679f19c8cc06b3348177e/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/lindomar/.gradle/caches/9.4.1/transforms/f7ccb20278722bfcb8b79130003d340c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/lindomar/.gradle/caches/9.4.1/transforms/f7ccb20278722bfcb8b79130003d340c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/lindomar/.gradle/caches/9.4.1/transforms/419c466506caed8de27a2262f9884743/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/lindomar/.gradle/caches/9.4.1/transforms/419c466506caed8de27a2262f9884743/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /home/lindomar/Dev/AppBrowser/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.0] /home/lindomar/.gradle/caches/9.4.1/transforms/2c7edd3b3e54a1607a704aaac21f8107/transformed/core-1.13.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /home/lindomar/Dev/AppBrowser/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /home/lindomar/Dev/AppBrowser/app/src/main/AndroidManifest.xml:10:9-41
+	android:hardwareAccelerated
+		ADDED from /home/lindomar/Dev/AppBrowser/app/src/main/AndroidManifest.xml:8:9-43
+	android:roundIcon
+		ADDED from /home/lindomar/Dev/AppBrowser/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /home/lindomar/Dev/AppBrowser/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /home/lindomar/Dev/AppBrowser/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /home/lindomar/Dev/AppBrowser/app/src/main/AndroidManifest.xml:13:9-48
+activity#com.example.appbrowser.MainActivity
+ADDED from /home/lindomar/Dev/AppBrowser/app/src/main/AndroidManifest.xml:14:9-19:20
+	android:hardwareAccelerated
+		ADDED from /home/lindomar/Dev/AppBrowser/app/src/main/AndroidManifest.xml:14:72-106
+	android:exported
+		ADDED from /home/lindomar/Dev/AppBrowser/app/src/main/AndroidManifest.xml:14:48-71
+	android:name
+		ADDED from /home/lindomar/Dev/AppBrowser/app/src/main/AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/lindomar/Dev/AppBrowser/app/src/main/AndroidManifest.xml:15:13-18:29
+action#android.intent.action.MAIN
+ADDED from /home/lindomar/Dev/AppBrowser/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/lindomar/Dev/AppBrowser/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/lindomar/Dev/AppBrowser/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /home/lindomar/Dev/AppBrowser/app/src/main/AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from /home/lindomar/Dev/AppBrowser/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/lindomar/Dev/AppBrowser/app/src/main/AndroidManifest.xml
+INJECTED from /home/lindomar/Dev/AppBrowser/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.11.0] /home/lindomar/.gradle/caches/9.4.1/transforms/a97d0dfaaf1c02986ea445de3dc2f908/transformed/material-1.11.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.11.0] /home/lindomar/.gradle/caches/9.4.1/transforms/a97d0dfaaf1c02986ea445de3dc2f908/transformed/material-1.11.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /home/lindomar/.gradle/caches/9.4.1/transforms/1a5c1765887b14c7f907e25cef4cbc5a/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /home/lindomar/.gradle/caches/9.4.1/transforms/1a5c1765887b14c7f907e25cef4cbc5a/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/lindomar/.gradle/caches/9.4.1/transforms/c74d2f65c47105d6db3c9f600156a0d3/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/lindomar/.gradle/caches/9.4.1/transforms/c74d2f65c47105d6db3c9f600156a0d3/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.7.0] /home/lindomar/.gradle/caches/9.4.1/transforms/6d2d3124f102f8425cf98dbf5a22143e/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] /home/lindomar/.gradle/caches/9.4.1/transforms/6d2d3124f102f8425cf98dbf5a22143e/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/lindomar/.gradle/caches/9.4.1/transforms/3f61ea1ce01c49fc2ebfc4f2527b2b2f/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/lindomar/.gradle/caches/9.4.1/transforms/3f61ea1ce01c49fc2ebfc4f2527b2b2f/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /home/lindomar/.gradle/caches/9.4.1/transforms/cec7b0ef309d1a0b70771e729d63b344/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /home/lindomar/.gradle/caches/9.4.1/transforms/cec7b0ef309d1a0b70771e729d63b344/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] /home/lindomar/.gradle/caches/9.4.1/transforms/1e328d56919eadaf29fe73251975fc5d/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] /home/lindomar/.gradle/caches/9.4.1/transforms/1e328d56919eadaf29fe73251975fc5d/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/lindomar/.gradle/caches/9.4.1/transforms/4b082772de4b2a0f5123a0e7c8777430/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/lindomar/.gradle/caches/9.4.1/transforms/4b082772de4b2a0f5123a0e7c8777430/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/lindomar/.gradle/caches/9.4.1/transforms/3652e4a967f0c63960b575b0ea2dcd02/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/lindomar/.gradle/caches/9.4.1/transforms/3652e4a967f0c63960b575b0ea2dcd02/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/lindomar/.gradle/caches/9.4.1/transforms/d22d5449f4b9be39af6a7a4176ce5386/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/lindomar/.gradle/caches/9.4.1/transforms/d22d5449f4b9be39af6a7a4176ce5386/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/lindomar/.gradle/caches/9.4.1/transforms/a25e33721441c33cd6649215983dd7df/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/lindomar/.gradle/caches/9.4.1/transforms/a25e33721441c33cd6649215983dd7df/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/lindomar/.gradle/caches/9.4.1/transforms/970c9ba3c48af425c2e98408fdf991bd/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/lindomar/.gradle/caches/9.4.1/transforms/970c9ba3c48af425c2e98408fdf991bd/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/lindomar/.gradle/caches/9.4.1/transforms/b5f335b327eac0e64702e826ff3ad225/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/lindomar/.gradle/caches/9.4.1/transforms/b5f335b327eac0e64702e826ff3ad225/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/lindomar/.gradle/caches/9.4.1/transforms/e4f40a7574afdcc778b3a32b5cc059f6/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/lindomar/.gradle/caches/9.4.1/transforms/e4f40a7574afdcc778b3a32b5cc059f6/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/lindomar/.gradle/caches/9.4.1/transforms/c6b799f48825d0ce8aee9a2ed07ae3a7/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/lindomar/.gradle/caches/9.4.1/transforms/c6b799f48825d0ce8aee9a2ed07ae3a7/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/lindomar/.gradle/caches/9.4.1/transforms/b22a876d8a2006c1780126c8a663d411/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/lindomar/.gradle/caches/9.4.1/transforms/b22a876d8a2006c1780126c8a663d411/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/lindomar/.gradle/caches/9.4.1/transforms/b60666cf4c87377882536ca68f37cb1c/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/lindomar/.gradle/caches/9.4.1/transforms/b60666cf4c87377882536ca68f37cb1c/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/lindomar/.gradle/caches/9.4.1/transforms/486c839f86d1d4721f341ed78d77b75c/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/lindomar/.gradle/caches/9.4.1/transforms/486c839f86d1d4721f341ed78d77b75c/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/lindomar/.gradle/caches/9.4.1/transforms/e1aa448e1cfc6695ff0f4bcc75541204/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/lindomar/.gradle/caches/9.4.1/transforms/e1aa448e1cfc6695ff0f4bcc75541204/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] /home/lindomar/.gradle/caches/9.4.1/transforms/b5adc99706f60fa8afbf83a718a02651/transformed/core-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] /home/lindomar/.gradle/caches/9.4.1/transforms/b5adc99706f60fa8afbf83a718a02651/transformed/core-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/lindomar/.gradle/caches/9.4.1/transforms/e3ab0525f597057046d206b0a9b3a8a8/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/lindomar/.gradle/caches/9.4.1/transforms/e3ab0525f597057046d206b0a9b3a8a8/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/lindomar/.gradle/caches/9.4.1/transforms/17c48780297cc4d770e7eac8362a90b2/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/lindomar/.gradle/caches/9.4.1/transforms/17c48780297cc4d770e7eac8362a90b2/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/lindomar/.gradle/caches/9.4.1/transforms/0340cd10d98f7e2225ab0e56e4d2948c/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/lindomar/.gradle/caches/9.4.1/transforms/0340cd10d98f7e2225ab0e56e4d2948c/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/lindomar/.gradle/caches/9.4.1/transforms/04572e89e62a35fbbb18d66c32bab73a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/lindomar/.gradle/caches/9.4.1/transforms/04572e89e62a35fbbb18d66c32bab73a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/lindomar/.gradle/caches/9.4.1/transforms/9fbbc6426ace84377c1a37a461cbda0f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/lindomar/.gradle/caches/9.4.1/transforms/9fbbc6426ace84377c1a37a461cbda0f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/lindomar/.gradle/caches/9.4.1/transforms/5415e8ca38a62bb44e57bd1e73708a7f/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/lindomar/.gradle/caches/9.4.1/transforms/5415e8ca38a62bb44e57bd1e73708a7f/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/lindomar/.gradle/caches/9.4.1/transforms/f701a7fe3f7b8426cebe9f73d9544135/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/lindomar/.gradle/caches/9.4.1/transforms/f701a7fe3f7b8426cebe9f73d9544135/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/lindomar/.gradle/caches/9.4.1/transforms/61cf0ff1b6247bf2932ccd3d1cfe21f4/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/lindomar/.gradle/caches/9.4.1/transforms/61cf0ff1b6247bf2932ccd3d1cfe21f4/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.13.0] /home/lindomar/.gradle/caches/9.4.1/transforms/2c7edd3b3e54a1607a704aaac21f8107/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.0] /home/lindomar/.gradle/caches/9.4.1/transforms/2c7edd3b3e54a1607a704aaac21f8107/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/lindomar/.gradle/caches/9.4.1/transforms/199c9bcf0128123bce8f30d796ae90e9/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/lindomar/.gradle/caches/9.4.1/transforms/199c9bcf0128123bce8f30d796ae90e9/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/lindomar/.gradle/caches/9.4.1/transforms/94aa90fcb7a0d5e77d1579496cc298ac/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/lindomar/.gradle/caches/9.4.1/transforms/94aa90fcb7a0d5e77d1579496cc298ac/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lindomar/.gradle/caches/9.4.1/transforms/e3b81165219679f19c8cc06b3348177e/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lindomar/.gradle/caches/9.4.1/transforms/e3b81165219679f19c8cc06b3348177e/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/lindomar/.gradle/caches/9.4.1/transforms/88eaeb6b0e55ce4da5fc59dd247cf5ae/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/lindomar/.gradle/caches/9.4.1/transforms/88eaeb6b0e55ce4da5fc59dd247cf5ae/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/lindomar/.gradle/caches/9.4.1/transforms/272081552fd583ec0eb71657e62abf5a/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/lindomar/.gradle/caches/9.4.1/transforms/272081552fd583ec0eb71657e62abf5a/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/lindomar/.gradle/caches/9.4.1/transforms/f7ccb20278722bfcb8b79130003d340c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/lindomar/.gradle/caches/9.4.1/transforms/f7ccb20278722bfcb8b79130003d340c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/lindomar/.gradle/caches/9.4.1/transforms/419c466506caed8de27a2262f9884743/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/lindomar/.gradle/caches/9.4.1/transforms/419c466506caed8de27a2262f9884743/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/lindomar/.gradle/caches/9.4.1/transforms/09d308ba2b8f3a4b9f4284ebdfcb623b/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/lindomar/.gradle/caches/9.4.1/transforms/09d308ba2b8f3a4b9f4284ebdfcb623b/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/lindomar/.gradle/caches/9.4.1/transforms/da02a4e8664f8962fd927d15a953f1b5/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/lindomar/.gradle/caches/9.4.1/transforms/da02a4e8664f8962fd927d15a953f1b5/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/lindomar/.gradle/caches/9.4.1/transforms/81f1e9f2d4fdc6626b020cc49f47f3a8/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/lindomar/.gradle/caches/9.4.1/transforms/81f1e9f2d4fdc6626b020cc49f47f3a8/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/lindomar/.gradle/caches/9.4.1/transforms/60c773da6457d06d6221e81548a4216c/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/lindomar/.gradle/caches/9.4.1/transforms/60c773da6457d06d6221e81548a4216c/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/lindomar/.gradle/caches/9.4.1/transforms/82241848875b092292be24246d867fc4/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/lindomar/.gradle/caches/9.4.1/transforms/82241848875b092292be24246d867fc4/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /home/lindomar/Dev/AppBrowser/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/lindomar/Dev/AppBrowser/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/lindomar/.gradle/caches/9.4.1/transforms/d22d5449f4b9be39af6a7a4176ce5386/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/lindomar/.gradle/caches/9.4.1/transforms/b22a876d8a2006c1780126c8a663d411/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/lindomar/.gradle/caches/9.4.1/transforms/b22a876d8a2006c1780126c8a663d411/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lindomar/.gradle/caches/9.4.1/transforms/e3b81165219679f19c8cc06b3348177e/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lindomar/.gradle/caches/9.4.1/transforms/e3b81165219679f19c8cc06b3348177e/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/lindomar/.gradle/caches/9.4.1/transforms/419c466506caed8de27a2262f9884743/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/lindomar/.gradle/caches/9.4.1/transforms/419c466506caed8de27a2262f9884743/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/lindomar/.gradle/caches/9.4.1/transforms/d22d5449f4b9be39af6a7a4176ce5386/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/lindomar/.gradle/caches/9.4.1/transforms/d22d5449f4b9be39af6a7a4176ce5386/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/lindomar/.gradle/caches/9.4.1/transforms/d22d5449f4b9be39af6a7a4176ce5386/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/lindomar/.gradle/caches/9.4.1/transforms/d22d5449f4b9be39af6a7a4176ce5386/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/lindomar/.gradle/caches/9.4.1/transforms/d22d5449f4b9be39af6a7a4176ce5386/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/lindomar/.gradle/caches/9.4.1/transforms/d22d5449f4b9be39af6a7a4176ce5386/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/lindomar/.gradle/caches/9.4.1/transforms/d22d5449f4b9be39af6a7a4176ce5386/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/lindomar/.gradle/caches/9.4.1/transforms/b22a876d8a2006c1780126c8a663d411/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/lindomar/.gradle/caches/9.4.1/transforms/b22a876d8a2006c1780126c8a663d411/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/lindomar/.gradle/caches/9.4.1/transforms/b22a876d8a2006c1780126c8a663d411/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /home/lindomar/.gradle/caches/9.4.1/transforms/2c7edd3b3e54a1607a704aaac21f8107/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] /home/lindomar/.gradle/caches/9.4.1/transforms/2c7edd3b3e54a1607a704aaac21f8107/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /home/lindomar/.gradle/caches/9.4.1/transforms/2c7edd3b3e54a1607a704aaac21f8107/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+permission#com.example.appbrowser.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /home/lindomar/.gradle/caches/9.4.1/transforms/2c7edd3b3e54a1607a704aaac21f8107/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] /home/lindomar/.gradle/caches/9.4.1/transforms/2c7edd3b3e54a1607a704aaac21f8107/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /home/lindomar/.gradle/caches/9.4.1/transforms/2c7edd3b3e54a1607a704aaac21f8107/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /home/lindomar/.gradle/caches/9.4.1/transforms/2c7edd3b3e54a1607a704aaac21f8107/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /home/lindomar/.gradle/caches/9.4.1/transforms/2c7edd3b3e54a1607a704aaac21f8107/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.appbrowser.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /home/lindomar/.gradle/caches/9.4.1/transforms/2c7edd3b3e54a1607a704aaac21f8107/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /home/lindomar/.gradle/caches/9.4.1/transforms/2c7edd3b3e54a1607a704aaac21f8107/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lindomar/.gradle/caches/9.4.1/transforms/e3b81165219679f19c8cc06b3348177e/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lindomar/.gradle/caches/9.4.1/transforms/e3b81165219679f19c8cc06b3348177e/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lindomar/.gradle/caches/9.4.1/transforms/e3b81165219679f19c8cc06b3348177e/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lindomar/.gradle/caches/9.4.1/transforms/e3b81165219679f19c8cc06b3348177e/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lindomar/.gradle/caches/9.4.1/transforms/e3b81165219679f19c8cc06b3348177e/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lindomar/.gradle/caches/9.4.1/transforms/e3b81165219679f19c8cc06b3348177e/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lindomar/.gradle/caches/9.4.1/transforms/e3b81165219679f19c8cc06b3348177e/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lindomar/.gradle/caches/9.4.1/transforms/e3b81165219679f19c8cc06b3348177e/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lindomar/.gradle/caches/9.4.1/transforms/e3b81165219679f19c8cc06b3348177e/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lindomar/.gradle/caches/9.4.1/transforms/e3b81165219679f19c8cc06b3348177e/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lindomar/.gradle/caches/9.4.1/transforms/e3b81165219679f19c8cc06b3348177e/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lindomar/.gradle/caches/9.4.1/transforms/e3b81165219679f19c8cc06b3348177e/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lindomar/.gradle/caches/9.4.1/transforms/e3b81165219679f19c8cc06b3348177e/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lindomar/.gradle/caches/9.4.1/transforms/e3b81165219679f19c8cc06b3348177e/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lindomar/.gradle/caches/9.4.1/transforms/e3b81165219679f19c8cc06b3348177e/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lindomar/.gradle/caches/9.4.1/transforms/e3b81165219679f19c8cc06b3348177e/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lindomar/.gradle/caches/9.4.1/transforms/e3b81165219679f19c8cc06b3348177e/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lindomar/.gradle/caches/9.4.1/transforms/e3b81165219679f19c8cc06b3348177e/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lindomar/.gradle/caches/9.4.1/transforms/e3b81165219679f19c8cc06b3348177e/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lindomar/.gradle/caches/9.4.1/transforms/e3b81165219679f19c8cc06b3348177e/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/lindomar/.gradle/caches/9.4.1/transforms/e3b81165219679f19c8cc06b3348177e/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92

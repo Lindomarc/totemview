@@ -1,0 +1,42 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  android:
+    name: Build Android
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up JDK 17
+        uses: actions/setup-java@v3
+        with:
+          distribution: temurin
+          java-version: '17'
+      - name: Download Gradle wrapper cache
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.gradle/caches
+            ~/.gradle/wrapper
+          key: ${{ runner.os }}-gradle-${{ hashFiles('**/gradle-wrapper.properties', '**/build.gradle', '**/settings.gradle') }}
+      - name: Build Android debug APK
+        run: ./gradlew assembleDebug --no-daemon
+
+  ios:
+    name: Prepare iOS build
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check for Xcode project
+        run: |
+          if [ ! -d "ios" ]; then
+            echo "No iOS folder found.";
+            exit 0;
+          fi
+          echo "iOS folder exists. Add an Xcode project to build it."
+      - name: Show iOS project file suggestion
+        run: |
+          echo "If you add an Xcode project, update this workflow to build it with xcodebuild."
